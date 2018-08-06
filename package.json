@@ -1,0 +1,20 @@
+{
+  "name": "hyper-focus",
+  "version": "1.0.0",
+  "description": "Use panes. Keep focus.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marco-streng/hyper-focus"
+  },
+  "keywords": [
+    "hyper",
+    "hyperterm",
+    "pane",
+    "splitpane",
+    "focus",
+    "cool"
+  ],
+  "author": "Marco Streng <marcostreng@me.com>",
+  "license": "MIT"
+}
