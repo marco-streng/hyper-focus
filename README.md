@@ -1,3 +1,5 @@
+[![npm version](https://img.shields.io/npm/v/hyper-focus.svg?style=flat-square)](https://www.npmjs.com/package/hyper-focus)
+
 # hyper-focus
 
 > Gives your [hyper](https://hyper.is/) panes more focus.
